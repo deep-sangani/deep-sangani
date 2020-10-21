@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/deep-sangani/deep-sangani/blob/main/header_white_.png)
 
 
 ### Hi there, I'm Deep👋
