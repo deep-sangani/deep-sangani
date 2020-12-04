@@ -40,6 +40,7 @@
 <br />
 
 ---
+<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deep-sangani&show_icons=true&hide_border=true" />
 
 
 
