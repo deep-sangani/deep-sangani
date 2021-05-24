@@ -4,10 +4,10 @@
 ### Hi there, I'm Deep👋
 
 ## I'm a Full-stack Software Developer !
-- 🔭 I’m currently working @ [react,node,express,mongodb](website)
+- 🔭 I’m currently working @ [react,node,express,mongodb]()
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: create highly insane content 
+- 🥅 2021 Goals: create highly insane content 
 - ⚡ Fun fact: I love to watch movies and learn new things
 
 ### Connect with me:
