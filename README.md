@@ -13,9 +13,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[![facebook Badge](https://img.shields.io/badge/-facebook-0e76a8?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/deep.sangani.5249/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deep-sangani-68071416a/)
+[![instagram Badge](https://img.shields.io/badge/-instagram-0e76a8?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/deepsangani_/)
 <br />
 
 ### Languages and Tools:
