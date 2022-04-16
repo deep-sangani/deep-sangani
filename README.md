@@ -7,7 +7,7 @@
 - 🔭 I’m currently working @ [react,node,express,mongodb]()
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: create highly insane content 
+- 🥅 2022 Goals: create highly insane content 
 - ⚡ Fun fact: I love to watch movies and learn new things
 
 ### Connect with me:
